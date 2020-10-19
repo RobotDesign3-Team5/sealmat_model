@@ -17,14 +17,14 @@
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://seal_model/sealmat.dae</uri>
+            <uri>model://sealmat_model/sealmat.dae</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://seal_model/sealmat.dae</uri>
+            <uri>model://sealmat_model/sealmat.dae</uri>
           </mesh>
         </geometry>
       </visual>
